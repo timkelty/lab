@@ -1,0 +1,10 @@
+# defaults
+log/*
+tmp/*
+*.DS_Store
+db/*.db
+.sass-cache*
+
+# ee configs
+config/database.yml
+config/environment.php

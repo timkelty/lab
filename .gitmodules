@@ -1,0 +1,3 @@
+[submodule "submodules/easel"]
+	path = submodules/easel
+	url = git@github.com:fusionary/easel.git
